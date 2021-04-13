@@ -1,0 +1,12 @@
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/bin/Debug/netcoreapp3.1/mad-libs-extended-challenge.deps.json
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/bin/Debug/netcoreapp3.1/mad-libs-extended-challenge.runtimeconfig.json
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/bin/Debug/netcoreapp3.1/mad-libs-extended-challenge.runtimeconfig.dev.json
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/bin/Debug/netcoreapp3.1/mad-libs-extended-challenge.dll
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/bin/Debug/netcoreapp3.1/mad-libs-extended-challenge.pdb
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.csprojAssemblyReference.cache
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.AssemblyInfoInputs.cache
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.AssemblyInfo.cs
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.csproj.CoreCompileInputs.cache
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.dll
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.pdb
+/Users/Eli/Projects/mad-libs-extended-challenge/mad-libs-extended-challenge/obj/Debug/netcoreapp3.1/mad-libs-extended-challenge.genruntimeconfig.cache
